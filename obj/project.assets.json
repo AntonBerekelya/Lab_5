@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Робочий стіл\\sdk\\2 КУРС\\ТСПП\\Laboratorna 4\\Patterns\\Patterns.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Робочий стіл\\sdk\\2 КУРС\\ТСПП\\Laboratorna 4 Берекеля 3 Варіант\\Patterns\\Patterns.csproj",
       "projectName": "Patterns",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Робочий стіл\\sdk\\2 КУРС\\ТСПП\\Laboratorna 4\\Patterns\\Patterns.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Робочий стіл\\sdk\\2 КУРС\\ТСПП\\Laboratorna 4 Берекеля 3 Варіант\\Patterns\\Patterns.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Робочий стіл\\sdk\\2 КУРС\\ТСПП\\Laboratorna 4\\Patterns\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Робочий стіл\\sdk\\2 КУРС\\ТСПП\\Laboratorna 4 Берекеля 3 Варіант\\Patterns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
